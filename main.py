@@ -2,4 +2,4 @@ import interface
 import pyglet
 
 window = interface.Game()
-pyglet.app.run()
+pyglet.app.run()  # run the game
